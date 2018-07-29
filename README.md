@@ -106,4 +106,4 @@ It's not a problem, you can simply igore it, or you can get rid of this error by
 当你通过服务器访问游戏页面的时候，你将在控制台中发现一个错误提示：
 "Failed to load resource: the server responded with a status of 404 (Not Found)"，提示`project.json`文件找不到
 
-这是正常现象，并不是问题，你可以忽略它。或者可以添加一个空的`project.json`文件来避免这个错误报告。
+这是正常现象，并不是问题，你可以忽略它。或者可以添加一个空的`project.json`文件来避免这个错误报告。# heart
